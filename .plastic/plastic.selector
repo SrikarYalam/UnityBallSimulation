@@ -1,0 +1,4 @@
+repository "BubbleBattle@Egglessbonker@cloud"
+  path "/"
+    br "/main"
+    co "/main"
